@@ -1,1 +1,3 @@
-# data_stuctures_algorithmn
+Name: Awdhat Farid Al-haifi
+Reg_No: SCT212-0463/2022
+PROJECT -- CONTAINS CODING USING C++ LANGUAGE, SOLVING QUIZ AND LAB 1.
